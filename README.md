@@ -5,28 +5,28 @@
 <p align="left">Sou Derek Henrique, tenho 20 anos e atualmente moro em São Paulo. Como pessoa, me considero calmo, com uma abordagem racional em qualquer situação. Minha curiosidade é uma das minhas maiores qualidades, o que me impulsiona a sempre buscar formas mais eficientes de realizar tarefas e alcançar os resultados esperados.<br>-Faculdade de Análise e Desenvolvimento de Sistemas pela UNINOVE.<br>-Conclusão do curso Fullstack da EBAC: Capacitação em Python, JavaScript e Front-end.<br>-Curso Front End Completo 2.0 pela Danki Code.<br>-Curso HTML pela Danki Code.<br>-Curso JavaScript pela Danki Code.<br>-Curso Inteligência Artificial pela EBAC.<br>-Curso Introdução à Programação pela Danki Code.</p>
 
 <p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
+    <a href="https://www.instagram.com/deckin_3/">
         <img 
             alt="youtube subscribers" 
             title="Inscreva-se no meu canal" 
             src="https://custom-icon-badges.demolab.com/badge/Instagram-Seguir-blue.svg?logo=icons8-insta-48&logoColor=white"
         />
     </a>
-    <a href="https://www.youtube.com/@larissakich">
+    <a href="#">
         <img 
             alt="youtube views" 
             title="Vizualizações no YouTube" 
             src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
         />
     </a> 
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+    <a href="#">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="#">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
