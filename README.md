@@ -7,30 +7,34 @@
 <p align="left">
     <a href="https://www.instagram.com/deckin_3/">
         <img 
+            height="25"
             alt="youtube subscribers" 
             title="Inscreva-se no meu canal" 
             src="https://custom-icon-badges.demolab.com/badge/Instagram-Seguir-blue.svg?logo=icons8-insta-48&logoColor=white"
         />
     </a>
-    <a href="#">
+ <a href="https://www.instagram.com/deckin_3/">
         <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
-    </a> 
-    <a href="#">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            height="25"
+            alt="youtube subscribers" 
+            title="Inscreva-se no meu canal" 
+            src="https://custom-icon-badges.demolab.com/badge/Linkedin-Seguir-blue.svg?logo=icons8-linkedin-48&logoColor=white"
         />
     </a>
-    <a href="#">
+     <a href="https://www.facebook.com/profile.php?id=100008330708541&locale=pt_BR">
         <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            height="25"
+            alt="youtube subscribers" 
+            title="Inscreva-se no meu canal" 
+            src="https://custom-icon-badges.demolab.com/badge/Facebook-Seguir-blue.svg?logo=icons8-facebook-48 (2)&logoColor=white"
+        />
+    </a>
+     <a href="https://www.instagram.com/deckin_3/">
+        <img 
+            height="25"
+            alt="youtube subscribers" 
+            title="Inscreva-se no meu canal" 
+            src="https://custom-icon-badges.demolab.com/badge/Twitter-Seguir-blue.svg?logo=icons8-twitter-24&logoColor=white"
         />
     </a>
 </p>
@@ -109,25 +113,6 @@
 
 ###
 
-<h2 align="left">Sociais</h2>
 
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/derekhenrique/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="120" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.facebook.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" width="120" height="40" alt="facebook logo"  />
-  </a>
-  <a href="https://www.instagram.com/deckin_3/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="120" height="40" alt="instagram logo"  />
-  </a>
-  <a href="derek.cbed@outlook.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="120" height="40" alt="gmail logo"  />
-  </a>
-</div>
-
-###
 
 
